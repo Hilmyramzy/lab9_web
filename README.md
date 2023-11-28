@@ -53,6 +53,10 @@ beserta screenshotnya.
    ![Screenshot (291)](https://github.com/Hilmyramzy/lab9_web/assets/115677769/3126f176-fe90-4436-9038-54423e55cc50)
 
    ![Screenshot (292)](https://github.com/Hilmyramzy/lab9_web/assets/115677769/0f265d7d-64a1-4aa8-9002-a2f8bdabea62)
+   ![Screenshot (293)](https://github.com/Hilmyramzy/lab9_web/assets/115677769/fb634a5b-87b0-4f2d-9750-367b701737ee)
+   ![Screenshot (294)](https://github.com/Hilmyramzy/lab9_web/assets/115677769/26c5889f-ff19-4c46-8eaa-27082b088f03)
+
+
 
 
 
